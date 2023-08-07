@@ -1,0 +1,6 @@
+This is mongo+express+react+node
+mern project.
+
+
+we have to handle the 'cors' errors which can be handled by backend.
+npm i cors
